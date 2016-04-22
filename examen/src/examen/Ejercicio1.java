@@ -217,6 +217,7 @@ public class Ejercicio1 extends JFrame implements ActionListener {
 	
 	public static void main(String[] args) throws IOException {
 		Ejercicio1 e1 = new Ejercicio1();
+		e1.setBounds(300, 300, 200, 300);
 	}
 
 }
